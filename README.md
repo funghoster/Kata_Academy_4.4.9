@@ -2,4 +2,12 @@
 
 ## Регистрация
 
-![alt](image.png)
+![alt](register.png.png)
+
+## Авторизация
+
+![Alt text](auth.png.png)
+
+## Получение данных текущего пользователя
+
+![Alt text](getUser.png.png)
