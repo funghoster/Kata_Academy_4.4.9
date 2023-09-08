@@ -11,3 +11,5 @@
 ## Получение данных текущего пользователя
 
 ![Alt text](getUser.png)
+
+![Alt text](profile.png)
